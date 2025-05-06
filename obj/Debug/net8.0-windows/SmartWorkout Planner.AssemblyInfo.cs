@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartWorkout Planner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5830df1c0e19b1e364b97b97901ef29192d6c61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a85564099fc7335989d75c2908b76aacf299e3e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartWorkout Planner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartWorkout Planner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

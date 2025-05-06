@@ -1,0 +1,5 @@
+C:\Users\colli\OneDrive\Documents\WorkoutTestApp\SmartWorkout Planner.exe
+C:\Users\colli\OneDrive\Documents\WorkoutTestApp\SmartWorkout Planner.dll
+C:\Users\colli\OneDrive\Documents\WorkoutTestApp\SmartWorkout Planner.deps.json
+C:\Users\colli\OneDrive\Documents\WorkoutTestApp\SmartWorkout Planner.runtimeconfig.json
+C:\Users\colli\OneDrive\Documents\WorkoutTestApp\SmartWorkout Planner.pdb

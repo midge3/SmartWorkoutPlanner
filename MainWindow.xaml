@@ -1,12 +1,38 @@
 ﻿<Window x:Class="SmartWorkout_Planner.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:SmartWorkout_Planner"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Workout Planner" Height="450" Width="800">
     <Grid>
+        <!-- Header -->
+        <TextBlock Text="Workout Planner" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,10,0,0"/>
 
+        <!-- Workout Plan Options -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0">
+            <TextBlock Text="Select Workout Type:" FontSize="16" Margin="0,10,0,5"/>
+            <ComboBox x:Name="WorkoutTypeComboBox" Width="200" Margin="0,0,0,10">
+                <ComboBoxItem Content="Powerlifting"/>
+                <ComboBoxItem Content="Bodybuilding"/>
+                <ComboBoxItem Content="Cardio"/>
+            </ComboBox>
+
+            <TextBlock Text="Days Per Week:" FontSize="16" Margin="0,10,0,5"/>
+            <ComboBox x:Name="DaysPerWeekComboBox" Width="200" Margin="0,0,0,10">
+                <ComboBoxItem Content="3"/>
+                <ComboBoxItem Content="4"/>
+                <ComboBoxItem Content="5"/>
+                <ComboBoxItem Content="6"/>
+            </ComboBox>
+
+            <Button x:Name="GeneratePlanButton" Content="Generate Workout Plan" Width="200" Height="30" Margin="0,20,0,0"/>
+            <Button x:Name="SavePlanButton" Content="Save Workout Plan" Width="200" Height="30" Margin="0,10,0,0"/>
+            <Button x:Name="LoadPlanButton" Content="Load Previous Workout Plan" Width="200" Height="30" Margin="0,10,0,0"/>
+        </StackPanel>
+
+        <!-- Workout Plan Display -->
+        <GroupBox Header="Generated Workout Plan" Margin="10,321,10,10">
+            <ScrollViewer>
+                <TextBlock x:Name="WorkoutPlanTextBlock" Text="Your workout plan will appear here..." TextWrapping="Wrap" Margin="10"/>
+            </ScrollViewer>
+        </GroupBox>
     </Grid>
 </Window>

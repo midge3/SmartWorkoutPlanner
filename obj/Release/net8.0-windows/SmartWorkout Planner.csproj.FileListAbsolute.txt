@@ -1,0 +1,20 @@
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\bin\Release\net8.0-windows\SmartWorkout Planner.exe
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\bin\Release\net8.0-windows\SmartWorkout Planner.deps.json
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\bin\Release\net8.0-windows\SmartWorkout Planner.runtimeconfig.json
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\bin\Release\net8.0-windows\SmartWorkout Planner.dll
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\bin\Release\net8.0-windows\SmartWorkout Planner.pdb
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\App.g.cs
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner_MarkupCompile.cache
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.g.resources
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.AssemblyInfoInputs.cache
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.AssemblyInfo.cs
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.sourcelink.json
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.dll
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\refint\SmartWorkout Planner.dll
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.pdb
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\SmartWorkout Planner.genruntimeconfig.cache
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkoutPlanner\obj\Release\net8.0-windows\ref\SmartWorkout Planner.dll

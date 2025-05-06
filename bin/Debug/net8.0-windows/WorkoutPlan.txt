@@ -1,0 +1,9 @@
+Workout Type: Cardio
+Days Per Week: 5
+
+Generated Plan:
+Day 1: Cycling
+Day 2: Rowing
+Day 3: Jump Rope
+Day 4: Swimming
+Day 5: Running

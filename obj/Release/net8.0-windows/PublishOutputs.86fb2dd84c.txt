@@ -1,0 +1,5 @@
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkout Planner.exe
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkout Planner.dll
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkout Planner.deps.json
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkout Planner.runtimeconfig.json
+C:\Users\colli\OneDrive - University of Missouri\Mizzou Semester 6\INFOTC 4400\SmartWorkoutPlanner\SmartWorkout Planner.pdb
